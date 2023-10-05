@@ -2,7 +2,7 @@
 
 ## Description :
 
-Je suis une passionnée de développement web en constante quête d'apprentissage. Actuellement en formation pour devenir développeuse web, je maîtrise HTML, CSS et JavaScript, et je suis en cours d'approfondissement de React et Node.js. De plus, j'explore des outils tels que Bubble (débutante), WordPress (avancée), Carrd (avancée), Coda (expérimentée), Notion (expérimentée) et Make (expérimentée) pour diversifier mes compétences dans le domaine du développement web.
+Je suis une passionnée de technologie en constante quête d'apprentissage. Actuellement en formation pour devenir développeuse web, je maîtrise HTML, CSS et JavaScript, et je suis en cours d'approfondissement de React et Node.js. De plus, j'explore des outils tels que Bubble (débutante), WordPress (avancée), Carrd (avancée), Coda (expérimentée), Notion (expérimentée) et Make (expérimentée) pour diversifier mes compétences dans le domaine du développement web.
 
 ## Compétences :
 
